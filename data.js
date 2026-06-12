@@ -45,7 +45,7 @@ const SITE_DATA = {
     "metro": "м. Савёловская",
     "directions": "Выход из метро в сторону ул. Вятской, 5 минут пешком.",
     "whatToBring": "На первое занятие — удобная спортивная одежда. Кимоно для пробных тренировок предоставляем.",
-    "mapEmbed": ""
+    "mapEmbed": "https://yandex.ru/map-widget/v1/?ll=37.582587%2C55.796362&mode=search&ol=geo&ouri=ymapsbm1%3A%2F%2Fgeo%3Fdata%3DCgg1Njc1MDI0OBI50KDQvtGB0YHQuNGPLCDQnNC-0YHQutCy0LAsINCS0Y_RgtGB0LrQsNGPINGD0LvQuNGG0LAsIDI4IgoNd1QWQhXjLl9C&z=18.59"
   },
 
   "contact": {
